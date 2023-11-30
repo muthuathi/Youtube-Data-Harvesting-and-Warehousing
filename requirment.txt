@@ -1,0 +1,5 @@
+1. google-api-python-client
+2. pymongo
+3. psycopg2
+4. streamlit
+5. pandas
